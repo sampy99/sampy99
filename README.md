@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Sampath Chathuranga! 👋
 
-<!--
-**sampy99/sampy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a strong interest in coding and technology. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning and growing my skills in [Insert your focus area].
+- 💼 I'm actively seeking new opportunities in the tech industry.
+- 🎓 I hold a degree in [Insert your degree] from [Insert your university].
+- 📚 I love reading and exploring new technologies.
+
+## My GitHub Stats
+
+[![Sampath Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)](https://github.com/sampy99)
+
+## Technologies I Work With
+
+- 💻 Java, Python, JavaScript
+- 🌐 HTML, CSS, React
+- 📦 Docker, Kubernetes
+- 🛢️ MySQL, MongoDB
+- 🚀 And more...
+
+## Let's Connect
+
+- 📫 You can reach me via [Email](sampath.chathurangarcg@gmail.com)
+
