@@ -4,14 +4,14 @@ I'm a passionate software developer with a strong interest in coding and technol
 
 ## About Me
 
-- 🌱 I'm currently learning and growing my skills in [Insert your focus area].
+- 🌱 I'm currently learning and growing my skills in web & mobile development.
 - 💼 I'm actively seeking new opportunities in the tech industry.
-- 🎓 I hold a degree in [Insert your degree] from [Insert your university].
+- 🎓 I hold a degree in Computer Science from university of Kelaniya.
 - 📚 I love reading and exploring new technologies.
 
 ## My GitHub Stats
 
-[![Sampath Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampy99&show_icons=true&theme=radical)](https://github.com/sampy99)
+[![Sampath Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampy99&show_icons=true&theme=dark)](https://github.com/sampy99)
 
 ## Technologies I Work With
 
