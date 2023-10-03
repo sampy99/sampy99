@@ -11,7 +11,7 @@ I'm a passionate software developer with a strong interest in coding and technol
 
 ## My GitHub Stats
 
-[![Sampath Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampy99&show_icons=true&theme=dark)](https://github.com/sampy99)
+[![Sampath Chathuranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampy99&show_icons=true&theme=gruvbox)](https://github.com/sampy99)
 
 ## Technologies I Work With
 
