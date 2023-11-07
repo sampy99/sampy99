@@ -1,6 +1,6 @@
 # Hi there, I'm Sampath Chathuranga! 👋
 
-I'm a passionate software developer with a strong interest in coding and technology. Welcome to my GitHub profile!
+I'm a passionate software developer with a strong interest in coding and technology. Welcome to my GitHub profile
 
 ## About Me
 
