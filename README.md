@@ -15,7 +15,7 @@ I'm a passionate software developer with a strong interest in coding and technol
 
 ## Technologies I Work With
 
-- 💻 Java, Python, JavaScript jhj
+- 💻 Java, Python, JavaScript 
 - 🌐 HTML, CSS, React
 - 📦 Docker, Kubernetes
 - 🛢️ MySQL, MongoDB
