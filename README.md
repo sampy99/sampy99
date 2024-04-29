@@ -3,6 +3,12 @@
 
 - 🎓 I’m currently studying on **Computer Science at the University of Kelaniya.**
 
+- 🌱 I’m interested **in new Technologies and Frameworks**
+
+- 🔭 I'm learning **and growing my skills in web development.**
+
+- 💼 I'm actively seeking **new opportunities in the tech industry.**
+
 - 📫 How to reach me **sampath.chathurangarcg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampy99&show_icons=true&locale=en&layout=compact" alt="sampy99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampy99&show_icons=true&locale=en" alt="sampy99" /></p>
+
 
 
 
